@@ -223,6 +223,9 @@ class App extends React.Component {
                     </div>
 
                 </div>
+                <div className="copyright">
+                    <small>Copyright &copy; 2021, poorvisuparn</small>
+                </div>
 
             </section>
 
